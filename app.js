@@ -88,7 +88,7 @@ switch (time){
     }else if (b > a && b < c || b < a  && b > c ) {
         console.log('Ваше среднее число = ' + b);
     }else if (c > a && c < b || c > a && c > b ){
-        console.log('Ваше среднее число = ' + с);
+        console.log('Ваше среднее число = ' + c);
     }else{
         console.log('Не выполнено условие');
     }
